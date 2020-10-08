@@ -1,7 +1,7 @@
 # SecuPi
 A small scale implementation of Trigger-Based Home Security
 
-#Required Hardware
+# Required Hardware
 
 * The Raspberry Pi 3B/B+ or newer; and
 * A Camera module for the Pi
