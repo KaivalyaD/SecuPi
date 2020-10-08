@@ -10,7 +10,7 @@ A small scale implementation of Trigger-Based Home Security
 #### Make sure you have Python 3 installed on your Pi, and an active Telegram Bot
 
 * Clone this Repository onto the Pi
-* Install the dependencies. You can easily find those you are missing from the <code>essential_imports.py</code>
+* Install the dependencies. You can easily find those you are missing from <code>essential_imports.py</code>
 * Inside <code>Secupi.py</code>, add your bot's API Key and an emergency password, within the spaces indicated
 * Within <code>Mail_Handle.py</code>, add your E-mail adderss. You may even choose to give your Pi it's own address. :)
 * Congratulations! The Program is now all installed!
